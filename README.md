@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/nialloc9/terraform-custom-validation-rules/master/screenshots/main.png" alt='application running' width="600">
 </p>
 
-An example of creating custom validation rules for terraform.
+An example of creating custom validation rules for terraform. This is currently an experimental feature.
 
 ## Prerequisites
 
