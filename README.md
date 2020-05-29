@@ -1,6 +1,6 @@
 # terraform-custom-validation-rules
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nialloc9/terraform-custom-validation-rules/master/assets/main.png" alt='application running' width="400">
+    <img src="https://raw.githubusercontent.com/nialloc9/terraform-custom-validation-rules/master/screenshots/main.png" alt='application running' width="400">
 </p>
 
 An example of creating custom validation rules for terraform.
