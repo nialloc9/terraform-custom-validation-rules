@@ -7,7 +7,7 @@ An example of creating custom validation rules for terraform.
 
 ## Prerequisites
 
-* [Install Terraform]](https://learn.hashicorp.com/terraform/getting-started/install)
+* [Install Terraform](https://learn.hashicorp.com/terraform/getting-started/install)
 
 ## Usage
 
